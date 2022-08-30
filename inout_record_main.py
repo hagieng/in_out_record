@@ -1,6 +1,5 @@
 '''
 入退記録メインファイル
-
 '''
 
 import inout_record as io_r
